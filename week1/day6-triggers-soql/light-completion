@@ -1,0 +1,54 @@
+# Light Completion Sprint
+
+## Modules Completed
+
+1. Search Solution Basics
+2. Agentforce 360 Platform Events Basics
+3. Command-Line Interface
+
+---
+
+## One Learning from Each Module
+
+### Search Solution Basics
+
+I learned that Salesforce search helps users quickly find records and information.
+
+### Agentforce 360 Platform Events Basics
+
+I learned that platform events allow different systems and users to be notified automatically when an event occurs.
+
+### Command-Line Interface
+
+I learned that developers use CLI tools to work faster and manage projects efficiently.
+
+---
+
+## Platform Event Thinking
+
+Example: Student Registration
+
+When a student registers:
+
+* Admission team gets notified.
+* Student receives a confirmation email.
+* Course records are updated automatically.
+
+---
+
+## CLI Reflection
+
+Developers prefer command-line tools because they are faster and help automate repetitive tasks. They also improve productivity when working on large projects.
+
+---
+
+## Search Reflection
+
+Fast and accurate search helps users find information quickly. This improves efficiency and saves time in enterprise systems.
+
+---
+
+## One Doubt / Question
+
+How are Platform Events used in real-world Salesforce projects?
+
